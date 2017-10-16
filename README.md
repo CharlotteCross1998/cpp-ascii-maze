@@ -1,6 +1,24 @@
 # cpp-ascii-maze
 Simple ascii maze template in C++. 
 
+# How you can contribute
+
+- Add a function to read a maze from a file
+	- Make the file a custom format which can read a maze, player & goal symbol & coordinates.
+- Main menu
+	- Settings
+		- Controls
+	- Highscores
+		- Time taken
+		- Moves done etc.
+	- New Game
+		- Load Game
+		- Save State System
+	- Multiplayer (Although I doubt anyone would implement this)
+	- Change Map
+		: Would probably use a vector instead of an array in that case
+- Readable code that beginners can read.
+
 # How it works
 
 Make a maze in the maze char array (or optionally make it read in a maze from a file)
