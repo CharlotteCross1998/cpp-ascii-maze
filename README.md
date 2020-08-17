@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bradcross1998/cpp-ascii-maze.svg?branch=master)](https://travis-ci.org/bradcross1998/cpp-ascii-maze)
+[![Build Status](https://travis-ci.org/charlottecross1998/cpp-ascii-maze.svg?branch=master)](https://travis-ci.org/charlottecross1998/cpp-ascii-maze)
 
 # cpp-ascii-maze
 Simple ascii maze template in C++. 
